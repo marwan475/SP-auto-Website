@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/twisted/SP-auto-Website/app/page":["/home/twisted/SP-auto-Website/styles/globals.css"]},"/home/twisted/SP-auto-Website/app/layout.js":["/home/twisted/SP-auto-Website/styles/globals.css"]}
