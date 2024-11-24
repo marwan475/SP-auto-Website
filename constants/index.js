@@ -1,28 +1,28 @@
-export const exploreWorlds = [
+export const Services = [
   {
-    id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    id: 'service-1',
+    imgUrl: 'tires.avif',
+    title: 'Tire Services',
   },
   {
-    id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    id: 'service-2',
+    imgUrl: 'diag.jpg',
+    title: 'Diagnostics',
   },
   {
-    id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    id: 'service-3',
+    imgUrl: 'fluid.jpg',
+    title: 'Fluid Change and Flush',
   },
   {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    id: 'service-4',
+    imgUrl: 'brake.avif',
+    title: 'Brakes',
   },
   {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    id: 'service-5',
+    imgUrl: 'repair.jpg',
+    title: 'Specfic Repairs',
   },
 ];
 

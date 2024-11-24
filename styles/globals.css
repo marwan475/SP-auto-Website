@@ -11,21 +11,9 @@
 }
 
 .gradient-01 {
-  background-image: linear-gradient(
-    270deg,
-    hsl(360deg 76% 31%) 0%,   /* Dark Red */
-    hsl(355deg 70% 35%) 26%,   /* Dark Crimson */
-    hsl(350deg 60% 45%) 39%,   /* Reddish Brown */
-    hsl(340deg 65% 55%) 50%,   /* Deep Red */
-    hsl(330deg 60% 60%) 61%,   /* Muted Red */
-    hsl(320deg 50% 65%) 74%,   /* Light Crimson */
-    hsl(315deg 40% 70%) 100%   /* Soft Red */
-  );
+  background-color: hsl(360deg 76% 31%); /* Dark Red */
   filter: blur(175px);
 }
-
-
-
 
 
 .hero-gradient {
@@ -44,7 +32,7 @@
   top: 0px;
   right: 0px;
 
-  background: #7aebfb;
+  background: #c10c0c;
   filter: blur(190px);
 }
 
@@ -63,7 +51,7 @@
   left: 20%;
   top: 5%;
 
-  background: rgba(149, 66, 232, 0.35);
+  background: rgba(140, 7, 3, 0.35);
   filter: blur(175px);
   transform: rotate(-114.2deg);
 }
@@ -75,7 +63,7 @@
   left: 30%;
   top: 10%;
 
-  background: rgba(45, 72, 152, 0.75);
+  background: rgba(69, 1, 1, 0.75);
   filter: blur(200px);
   transform: rotate(-53.13deg);
 }
